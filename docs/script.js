@@ -2,9 +2,9 @@
 const RPC_URL   = "https://testnet-rpc.monad.xyz";
 const CHAIN_HEX = "0x279F";
 const CHAIN_ID  = 10143;
-const MARKET    = "0xa4c519b1d2b28ae33a9d3d345c676725e642c99d";
-const RELAY     = "0x1f12d8349c9101b304949d8b285b49aDe76e38E7";
-const NFT       = "0x66fb1b5733A1A719e57022247A1CD9F4Ed73B1FB";
+const MARKET    = "0xe76626158d34c0ee77f2ad6ebe0ea1da7c2be289";
+const RELAY     = "0x2F1b77b3b20b8F410000330BE475C6c0A0421739";
+const NFT       = "0x34A51374b1Ac3a58d81a96eEeAC0C80A641dfdC7";
 const SIZE_MON  = "10";
 
 const $ = id => document.getElementById(id);

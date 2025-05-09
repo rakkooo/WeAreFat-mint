@@ -1,1 +1,1 @@
-https://rakkooo.github.io/gmokawa-mint/
+https://rakkooo.github.io/WeAreFat-mint/

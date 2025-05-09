@@ -5,7 +5,7 @@ const CHAIN_ID  = 10143;
 const MARKET    = "0xe76626158d34c0ee77f2ad6ebe0ea1da7c2be289";
 const RELAY     = "0x2F1b77b3b20b8F410000330BE475C6c0A0421739";
 const NFT       = "0x34A51374b1Ac3a58d81a96eEeAC0C80A641dfdC7";
-const SIZE_MON  = "10";
+const SIZE_MON  = "0.333";
 
 const $ = id => document.getElementById(id);
 const rpcProv = new ethers.providers.JsonRpcProvider(RPC_URL);

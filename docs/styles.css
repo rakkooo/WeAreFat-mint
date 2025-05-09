@@ -7,7 +7,7 @@ body{
 }
 body::before{
   content:"";position:fixed;inset:0;
-  background:url("./gmokawa.png") center/cover no-repeat;
+  background:url("./fat.png") center/cover no-repeat;
   opacity:.3;z-index:-1;
 }
 
